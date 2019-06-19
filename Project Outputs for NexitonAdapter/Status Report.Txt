@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NexitonAdapter.PrjPcb]
+   Generated File[NexitonAdapterBoard.TXT]
+   Generated File[NexitonAdapterBoard.LDP]
+   Generated File[NexitonAdapterBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:36:03 AM On 5/31/2019
